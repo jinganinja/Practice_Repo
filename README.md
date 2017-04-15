@@ -1,10 +1,10 @@
-#Practice_Repo
+# Practice_Repo
 Oh hey there! This here is a practice repo with some code!
 
 I will be writing the code in python, so you can play with the code as well as 
 the repository. 
 
-##How to clone the Repo
+## How to clone the Repo
 1. Click the clone or download button on the top right of this page 
 2. Click the copy to clipboard icon
 3. Move into your terminal
@@ -16,7 +16,7 @@ the repository.
 Now all the files from the repository are in the folder you were in when you
 completed the command above. 
 
-##What to try Next
+## What to try Next
 There are tons of things you can try next, so feel free to fiddle with it as 
 much as you would like! The following are a few things just to get you started 
 trying things out.
@@ -47,7 +47,7 @@ section.
 18. Once you are happy with that, move to the 'Once you are Happy with that Code'
 section.
 
-###Once you are Happy with that Code
+### Once you are Happy with that Code
 Once you are happy with the code changes you have made move into your console. 
 Once you are there navigate to the folder that your repo is in. Then use the 
 `git status` command. Any file names in red are unstaged changes. Any file names
